@@ -1,7 +1,6 @@
 # Primary Task:
-## Develop a very basic EMS (Employee Management System) wherein you have a form asking all
-the relevant details of the Employee e.g. Name, Age, Department, Blood group, Address and
-Contact number.
+## Develop a very basic EMS (Employee Management System) wherein you have a form asking all the relevant details of the Employee e.g. Name, Age, Department, Blood group,Address and Contact number.
+
 ### ● When you submit the form, all the details get saved in the local storage of the browser.
 ### ● Once the details are saved you fetch them and display them in a table.
 ### ● There should be an 'Edit' and 'Delete' functionality for each row in the table to edit
